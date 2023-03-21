@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://jeffjiang.vercel.app/)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jeff Jiang</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jeff</h1>
 <h3 align="center">A passionate fullstack engineer from New York</h3>
 
 
@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 
-- 🔭 I’m currently working on [Rental Booking App](https://jj-rent.vercel.app/)
+- 🔭 I’m currently working on [Rental Booking App](https://jj-rent.vercel.app/) 🙇
 
 - 👯 I’m looking to collaborate on [SocialMedia App](https://mysocialm.vercel.app/)
 

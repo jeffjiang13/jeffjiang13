@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://jeffjiang.vercel.app/)
 
-<h1 align="center">Hi 👋, I'm Jeff Jiang</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jeff Jiang</h1>
 <h3 align="center">A passionate fullstack engineer from New York</h3>
 
 

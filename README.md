@@ -17,7 +17,7 @@
 
 - 🔭 I’m also currently working on [CryptoKet Web3 Blockchain NFT Marketplace App](https://cryptoket-v2.vercel.app/)
 
-- 🌱 I’m currently learning **Java, C, TypeScript**
+- 🌱 I’m currently learning **Java, C, TypeScript**  😎
 
 - 👨‍💻 All of my projects are available at [https://jeffjiang.vercel.app/](https://jeffjiang.vercel.app/) and [https://jeffjportfolio.web.app/](https://jeffjportfolio.web.app/)
 

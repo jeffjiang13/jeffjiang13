@@ -11,15 +11,15 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 
-- 🔭 I’m currently working on [Rental Booking App](https://jj-rent.vercel.app/) 🙇
+- 🔭 I’m currently working on [TikTok Clone](https://jj-tiktok.vercel.app/) 🙇
 
-- 👯 I’m looking to collaborate on [SocialMedia App](https://mysocialm.vercel.app/)
+- 👯 I’m looking to collaborate on [Instagram Clone](https://jj-ig.vercel.app/)
 
-- 🔭 I’m also currently working on [CryptoKet Web3 Blockchain NFT Marketplace App](https://cryptoket-v2.vercel.app/)
+- 🔭 I’m also currently working on [SaaS Website Builder](https://jj-tailortech.vercel.app/)
 
 - 🌱 I’m currently learning **Java, C, React Native**  😎
 
-- 👨‍💻 All of my projects are available at [https://jeffjiang.vercel.app/](https://jeffjiang.vercel.app/) and [https://jeffjportfolio.web.app/](https://jeffjportfolio.web.app/)
+- 👨‍💻 All of my projects are available at [Main Portfolio](https://jeff-jiang.com/) and [3D Portfolio](https://jeffjiang.vercel.app/)
 
 - 💬 Ask me about **JavaScript**
 

@@ -56,7 +56,6 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffjiang13&show_icons=true&theme=dracula" alt="jeffjiang13" /></p>
 
 
 

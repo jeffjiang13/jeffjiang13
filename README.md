@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [TikTok Clone](https://jj-tiktok.vercel.app/) 🙇
 
-- 👯 I’m looking to collaborate on [Instagram Clone](https://jj-ig.vercel.app/)
+- 👯 I’m looking to collaborate on [Instagram Clone](https://quicktele.netlify.app/)
 
 - 🔭 I’m also currently working on [SaaS Website Builder](https://jj-tailortech.vercel.app/)
 

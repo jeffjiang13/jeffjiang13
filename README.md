@@ -50,76 +50,115 @@
 
 
 
+<h1 align="center">
+  Hi, I'm Jeff Jiang
+</h1>
 
+<p align="center">
+  Full stack engineer based in New York<br />
+  I build real products, MVPs, and scalable web apps
+</p>
 
+<p align="center">
+  <a href="https://jeff-jiang.com">Portfolio</a> •
+  <a href="https://jeffjiang.vercel.app">3D Portfolio</a> •
+  <a href="https://linkedin.com/in/jeffjiang13">LinkedIn</a> •
+  <a href="mailto:jeff.jiang13@gmail.com">Email</a>
+</p>
+
+<br />
+
+<table>
+<tr>
+<td width="55%">
+
+### What I do
+I design and build production ready web applications from idea to deployment.
+My focus is clean architecture, performance, and shipping features that users actually use.
+
+I enjoy working close to product, iterating fast, and owning systems end to end.
+
+Currently interested in:
+- Full stack product engineering
+- AI powered tools and features
+- Startups and early stage products
+- Frontend architecture and UX performance
+
+</td>
+<td width="45%" align="right">
+
+<img 
+  src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif"
+  width="360"
+  alt="Coding"
+  style="border-radius:16px; box-shadow: 0 0 35px rgba(14,165,233,0.35);"
+/>
+
+</td>
+</tr>
+</table>
+
+<br />
 <hr />
+<br />
 
-<h2 align="center">Quick Snapshot</h2>
+### Featured projects
 
-<p align="center">
-  <a href="https://github.com/jeffjiang13?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/jeffjiang13?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-See%20Stars-FFD166?style=for-the-badge&logo=githubsponsors&logoColor=111827" />
-  </a>
-  <a href="https://github.com/jeffjiang13?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-Follow-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p>
+<b>TikTok Clone</b><br />
+Short form video platform with auth, feeds, uploads, and real time interactions<br />
+<a href="https://jj-tiktok.vercel.app/">Live demo</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Go%20%7C%20Python-111827?style=for-the-badge" />
+<p>
+<b>Instagram Clone</b><br />
+Social app with posts, profiles, likes, comments, and responsive UI<br />
+<a href="https://quicktele.netlify.app/">Live demo</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20tools%20%7C%20MVPs%20%7C%20Product%20Engineering-111827?style=for-the-badge" />
+<p>
+<b>SaaS Website Builder</b><br />
+No code style website builder focused on speed and usability<br />
+<a href="https://jj-tailortech.vercel.app/">Live demo</a>
 </p>
 
 <br />
-
-<h3 align="center">Featured Builds</h3>
-
-<p align="center">
-  <a href="https://jj-tiktok.vercel.app/">
-    <img src="https://img.shields.io/badge/TikTok%20Clone-Live-DC2626?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://quicktele.netlify.app/">
-    <img src="https://img.shields.io/badge/Instagram%20Clone-Live-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://jj-tailortech.vercel.app/">
-    <img src="https://img.shields.io/badge/SaaS%20Website%20Builder-Live-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<br />
-
-<h3 align="center">Tech I use a lot</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://jeff-jiang.com/">
-    <img src="https://img.shields.io/badge/Portfolio-jeff--jiang.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://jeffjiang.vercel.app/">
-    <img src="https://img.shields.io/badge/3D%20Portfolio-jeffjiang.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/jeffjiang13/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 <hr />
+<br />
 
+### Tech I work with
 
+Frontend:
+- React, Next.js, TypeScript
+- Modern CSS, responsive layouts, performance optimization
+
+Backend:
+- Node.js, Go, Python, PHP
+- REST APIs, auth, background jobs
+
+Data and infrastructure:
+- PostgreSQL, MySQL, MongoDB
+- AWS, Docker, Kubernetes
+- CI/CD, deployment pipelines
+
+Tools:
+- Git, GitHub, Postman
+- Figma, testing frameworks
+
+<br />
+<hr />
+<br />
+
+### How I like to work
+- I care about code quality, but I care more about shipping
+- I like small iterations over big rewrites
+- I prefer ownership and accountability
+- I value clarity over cleverness
+
+<br />
+<hr />
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeffjiang13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>

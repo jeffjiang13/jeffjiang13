@@ -52,5 +52,74 @@
 
 
 
+<hr />
+
+<h2 align="center">Quick Snapshot</h2>
+
+<p align="center">
+  <a href="https://github.com/jeffjiang13?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/jeffjiang13?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-See%20Stars-FFD166?style=for-the-badge&logo=githubsponsors&logoColor=111827" />
+  </a>
+  <a href="https://github.com/jeffjiang13?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-Follow-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Go%20%7C%20Python-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20tools%20%7C%20MVPs%20%7C%20Product%20Engineering-111827?style=for-the-badge" />
+</p>
+
+<br />
+
+<h3 align="center">Featured Builds</h3>
+
+<p align="center">
+  <a href="https://jj-tiktok.vercel.app/">
+    <img src="https://img.shields.io/badge/TikTok%20Clone-Live-DC2626?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://quicktele.netlify.app/">
+    <img src="https://img.shields.io/badge/Instagram%20Clone-Live-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://jj-tailortech.vercel.app/">
+    <img src="https://img.shields.io/badge/SaaS%20Website%20Builder-Live-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<br />
+
+<h3 align="center">Tech I use a lot</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://jeff-jiang.com/">
+    <img src="https://img.shields.io/badge/Portfolio-jeff--jiang.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://jeffjiang.vercel.app/">
+    <img src="https://img.shields.io/badge/3D%20Portfolio-jeffjiang.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/jeffjiang13/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<hr />
 
 

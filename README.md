@@ -48,11 +48,11 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffjiang13&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Jeff Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffjiang13&show_icons=true&theme=dracula&cache_seconds=1800)
 
 <br />
 
-![Jeff Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffjiang13&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffjiang13&layout=compact&theme=dracula&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
